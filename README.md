@@ -48,7 +48,7 @@ Custom JS for animations
 
 # Installation
 Clone this repository:
-git clone https://github.com/yourusername/WEB-2.git
+git clone https://github.com/Elvira654/CampPoint.git
 Move the project folder to your local server directory (e.g., htdocs for XAMPP).
 
 Configure the database connection in includes/dbh.inc.php.
@@ -56,7 +56,7 @@ Configure the database connection in includes/dbh.inc.php.
 Start Apache and MySQL (XAMPP or any LAMP/WAMP server).
 
 Open the project in your browser:
-http://localhost/WEB-2-main/
+http://localhost/CampPoint-main/
 
 # License
 This project is provided for educational purposes and does not include a specific license.
